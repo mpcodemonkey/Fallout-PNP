@@ -5,7 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using Fallout_PNP.Models;
+using Fallout_PnP.Models;
 
 namespace Fallout_PNP
 {
