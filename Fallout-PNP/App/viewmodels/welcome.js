@@ -13,7 +13,8 @@
             'Use any Backend Technology',
             'Built on top of jQuery, Knockout & RequireJS',
             'Integrates with other libraries such as SammyJS & Bootstrap',
-            'Make jQuery & Bootstrap widgets templatable and bindable (or build your own widgets).'
+            'Make jQuery & Bootstrap widgets templatable and bindable (or build your own widgets).',
+            'I\'m a sneaky snek in teh grass'
         ];
     };
 
