@@ -21,6 +21,8 @@ namespace Fallout_PNP {
           .Include("~/Content/font-awesome.min.css")
 		  .Include("~/Content/durandal.css")
           .Include("~/Content/starterkit.css")
+          .Include("~/Content/hacker.css")
+          .Include("~/Content/navbar-fixed-side.css")
         );
     }
 
